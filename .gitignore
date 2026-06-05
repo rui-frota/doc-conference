@@ -1,0 +1,23 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração e chaves (MUITO IMPORTANTE)
+.env
+.env.*
+
+# Logs
+*.log
+streamlit.log
+
+# Arquivos do sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
